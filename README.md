@@ -1,2 +1,2 @@
 # AOLServer
-##這個伺服器由ChatGPT生成
+## 這個伺服器由ChatGPT生成
